@@ -1,0 +1,35 @@
+body{
+    margin-top: ;
+    text-align: center;
+    color:antiquewhite;
+    text-shadow: 2px 2px 0.8 black;
+}
+
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXcUEUfTXMQsej6r0_SPtBXoHXxEXpFDP6RQseWi3-qJCHluR3zbIEPmLy4PaTF15Apk&usqp=CAU) ;
+    background-position: center;
+    background-size: cover;
+}
+
+label{
+    font-size : 35px;
+}
+
+legend{
+    font-size : 45px;
+}
+input{
+    margin: 30px;
+   
+}
+
+input{
+    width: 100px;
+}
+.change_color{
+    color: brown;
+}
+
+input{
+    height: 40px;
+}
